@@ -1,0 +1,9 @@
+MAC OS
+
+Ce projet est un petit jeu qui consiste à éviter les patrouilles, récuperer les pommes et prendre la sortie.
+
+La carte se base sur des fichiers .ber modifiable.
+
+Le nombre de patrouille et la difficulté peuvent être modifié avec les paramètres d'entrée.
+
+Le programme est compatible uniquement avec macos.
